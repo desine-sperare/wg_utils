@@ -1,0 +1,6 @@
+[submodule "libs/time"]
+	path = libs/time
+	url = https://github.com/desine-sperare/time
+[submodule "libs/string_utils"]
+	path = libs/string_utils
+	url = https://github.com/desine-sperare/string_utils
